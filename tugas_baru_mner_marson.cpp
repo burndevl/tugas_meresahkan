@@ -4,7 +4,7 @@ using namespace std;
 //tipe gaji simpan disini
 string tipe;
 
-//gaji
+//gaji disini
 int gaji_bulanan = 1400000; //1JT 400RIBU BULANAN
 int gaji_mingguan = 350000; //350RIBU MINGGUAN
 int gaji_harian = 1000; //1RIBU PERJAM
